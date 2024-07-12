@@ -10,3 +10,6 @@
 ## Плагины линейки Ultimate
 - [UltimateChat](https://github.com/Sulleexx/UltimateChat) - Плагин на синхронизированный чат с дискордом и майнкрафтом и разными дополнительными плюшками
 - [UltimateCustomCrafts](https://github.com/Sulleexx/UltimateCustomCrafts) - Плагин на создание кастомных крафтов майнкрафт. Доступен на нескольких языках
+- [UltimateReport](https://github.com/Sulleexx/UltimateReport) - Плагин на репорты которые отправляются в дискорд из майнкрафта.
+## Плагины линейки S
+- [SCoordinates](soon) - Скоро
