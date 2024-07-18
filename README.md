@@ -12,4 +12,4 @@
 - [UltimateCustomCrafts](https://github.com/Sulleexx/UltimateCustomCrafts) - Плагин на создание кастомных крафтов майнкрафт. Доступен на нескольких языках
 - [UltimateReport](https://github.com/Sulleexx/UltimateReport) - Плагин на репорты которые отправляются в дискорд из майнкрафта.
 ## Плагины линейки S
-- [SCoordinates](soon) - Скоро
+- [SCoordinates](https://github.com/Sulleexx/SCoordinates) - Плагин на скрытие координат в f3 и показывает их в action bar'е игрока если он держит предмет выбраный в конфиге. Плагин похож на механику мш4.
