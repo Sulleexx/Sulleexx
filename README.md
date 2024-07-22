@@ -6,7 +6,11 @@
 
 # Мой телеграм аккаунт
 - 🌌Телеграм: [@nanekoila](https://t.me/nanekoila)
-
+# Modrinth
+- 💫Modrinth: [Sulleexx](https://modrinth.com/user/Sulleexx)
+# Spigotmc
+- 💥Spigotmc: [Suplys](https://www.spigotmc.org/resources/authors/suplys.2036047/)
+  
 ## Плагины линейки Ultimate
 - [UltimateChat](https://github.com/Sulleexx/UltimateChat) - Плагин на синхронизированный чат с дискордом и майнкрафтом и разными дополнительными плюшками
 - [UltimateCustomCrafts](https://github.com/Sulleexx/UltimateCustomCrafts) - Плагин на создание кастомных крафтов майнкрафт. Доступен на нескольких языках
