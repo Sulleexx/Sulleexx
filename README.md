@@ -6,7 +6,7 @@
 
 # Для заказа/покупки плагинов
 - ✨Discord: sullexxx
-- ✨Telegram: [suwersss](htpps://t.me/suwersss)
+- ✨Telegram: [suwersss](https://t.me/suwersss)
 
 # Modrinth
 - 💫Modrinth: [Sulleexx](https://modrinth.com/user/Sulleexx)
