@@ -6,7 +6,6 @@
 
 # Для связи со мной ❤
 - ✨Discord: sullexxx
-- ✨Telegram: [suwersss](https://t.me/suwersss)
 
 # Modrinth
 - 💫Modrinth: [Sulleexx](https://modrinth.com/user/Sulleexx)
